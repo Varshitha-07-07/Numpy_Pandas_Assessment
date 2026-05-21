@@ -1,0 +1,31 @@
+student_id,name,age,gender,math_score,science_score,attendance,exam_date
+1,Teresa,,Female,,,,
+2,Amber,20,Female,,70,65,
+3,Sherri,18,Female,150,70,65,March 5 2024
+4,Brittany,twenty,Male,150,,90,
+5,Daniel,18,Female,,999,72,2024-03-12
+6,Frederick,21,Female,,999,65,12-03-2024
+7,Eric,twenty,Male,55,999,80,2024-03-12
+8,Carolyn,,Female,88,999,,2024-03-12
+9,Frank,18,Female,150,60,,12-03-2024
+10,James,18,Male,55,95,,12-03-2024
+11,John,21,,72,70,,
+12,Luis,,Male,55,60,65,March 5 2024
+13,Angela,18,Male,91,999,72,12-03-2024
+14,Allison,21,Female,67,85,80,12-03-2024
+15,Donald,twenty,Female,88,999,,12-03-2024
+16,Kathleen,19,,67,95,72,12-03-2024
+17,Rebecca,twenty,Male,150,,,12-03-2024
+18,Sarah,21,,150,60,90,2024-03-12
+19,Jennifer,21,,88,95,90,March 5 2024
+20,John,,Male,,85,72,2024-03-12
+21,Amber,21,Female,67,,65,12-03-2024
+22,James,21,Male,67,,,"2024-03-12"
+23,Ronald,20,,67,999,65,March 5 2024
+24,Evan,18,,67,999,,2024-03-12
+25,Douglas,twenty,Female,91,85,80,
+26,Michael,twenty,,88,999,,
+27,Kimberly,21,Female,150,95,90,
+28,Brittany,18,Male,67,999,72,March 5 2024
+29,Elizabeth,,Female,91,70,65,
+30,Janice,19,Male,72,85,80,2024-03-12
